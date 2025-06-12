@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Time Sheet Application](https://gwms.igenesys.com)
 
-- 🌱 I’m currently learning **MERN , JAVA , SPRING BOOT , ETC...**
+- 🌱 I’m currently learning **MERN , JAVA , SPRING BOOT**
 
 - 🤝 I’m looking for help with **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://singhnandan222001.netlify.app/](https://singhnandan222001.netlify.app/)
 
-- 💬 Ask me about **React , Laravel , Node , Java , Etc**
+- 💬 Ask me about **React , Laravel , Node , Java ,etc**
 
 - 📫 How to reach me **nandansingh222001@gmail.com**
 
@@ -31,6 +31,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nandan222001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nandan222001" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan222001&show_icons=true&locale=en&layout=compact" alt="nandan222001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandan222001&show_icons=true&locale=en" alt="nandan222001" /></p>
 
